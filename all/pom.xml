@@ -200,20 +200,20 @@
       <scope>compile</scope>
       <optional>true</optional>
     </dependency>
-    <dependency>
-      <groupId>${project.groupId}</groupId>
-      <artifactId>netty-codec-dns</artifactId>
-      <version>${project.version}</version>
-      <scope>compile</scope>
-      <optional>true</optional>
-    </dependency>
-    <dependency>
-      <groupId>${project.groupId}</groupId>
-      <artifactId>netty-codec-haproxy</artifactId>
-      <version>${project.version}</version>
-      <scope>compile</scope>
-      <optional>true</optional>
-    </dependency>
+    <!--<dependency>-->
+      <!--<groupId>${project.groupId}</groupId>-->
+      <!--<artifactId>netty-codec-dns</artifactId>-->
+      <!--<version>${project.version}</version>-->
+      <!--<scope>compile</scope>-->
+      <!--<optional>true</optional>-->
+    <!--</dependency>-->
+    <!--<dependency>-->
+      <!--<groupId>${project.groupId}</groupId>-->
+      <!--<artifactId>netty-codec-haproxy</artifactId>-->
+      <!--<version>${project.version}</version>-->
+      <!--<scope>compile</scope>-->
+      <!--<optional>true</optional>-->
+    <!--</dependency>-->
     <dependency>
       <groupId>${project.groupId}</groupId>
       <artifactId>netty-codec-http</artifactId>
@@ -221,48 +221,48 @@
       <scope>compile</scope>
       <optional>true</optional>
     </dependency>
-    <dependency>
-      <groupId>${project.groupId}</groupId>
-      <artifactId>netty-codec-http2</artifactId>
-      <version>${project.version}</version>
-      <scope>compile</scope>
-      <optional>true</optional>
-    </dependency>
-    <dependency>
-      <groupId>${project.groupId}</groupId>
-      <artifactId>netty-codec-memcache</artifactId>
-      <version>${project.version}</version>
-      <scope>compile</scope>
-      <optional>true</optional>
-    </dependency>
-    <dependency>
-      <groupId>${project.groupId}</groupId>
-      <artifactId>netty-codec-mqtt</artifactId>
-      <version>${project.version}</version>
-      <scope>compile</scope>
-      <optional>true</optional>
-    </dependency>
-    <dependency>
-      <groupId>${project.groupId}</groupId>
-      <artifactId>netty-codec-smtp</artifactId>
-      <version>${project.version}</version>
-      <scope>compile</scope>
-      <optional>true</optional>
-    </dependency>
-    <dependency>
-      <groupId>${project.groupId}</groupId>
-      <artifactId>netty-codec-socks</artifactId>
-      <version>${project.version}</version>
-      <scope>compile</scope>
-      <optional>true</optional>
-    </dependency>
-    <dependency>
-      <groupId>${project.groupId}</groupId>
-      <artifactId>netty-codec-stomp</artifactId>
-      <version>${project.version}</version>
-      <scope>compile</scope>
-      <optional>true</optional>
-    </dependency>
+    <!--<dependency>-->
+      <!--<groupId>${project.groupId}</groupId>-->
+      <!--<artifactId>netty-codec-http2</artifactId>-->
+      <!--<version>${project.version}</version>-->
+      <!--<scope>compile</scope>-->
+      <!--<optional>true</optional>-->
+    <!--</dependency>-->
+    <!--<dependency>-->
+      <!--<groupId>${project.groupId}</groupId>-->
+      <!--<artifactId>netty-codec-memcache</artifactId>-->
+      <!--<version>${project.version}</version>-->
+      <!--<scope>compile</scope>-->
+      <!--<optional>true</optional>-->
+    <!--</dependency>-->
+    <!--<dependency>-->
+      <!--<groupId>${project.groupId}</groupId>-->
+      <!--<artifactId>netty-codec-mqtt</artifactId>-->
+      <!--<version>${project.version}</version>-->
+      <!--<scope>compile</scope>-->
+      <!--<optional>true</optional>-->
+    <!--</dependency>-->
+    <!--<dependency>-->
+      <!--<groupId>${project.groupId}</groupId>-->
+      <!--<artifactId>netty-codec-smtp</artifactId>-->
+      <!--<version>${project.version}</version>-->
+      <!--<scope>compile</scope>-->
+      <!--<optional>true</optional>-->
+    <!--</dependency>-->
+    <!--<dependency>-->
+      <!--<groupId>${project.groupId}</groupId>-->
+      <!--<artifactId>netty-codec-socks</artifactId>-->
+      <!--<version>${project.version}</version>-->
+      <!--<scope>compile</scope>-->
+      <!--<optional>true</optional>-->
+    <!--</dependency>-->
+    <!--<dependency>-->
+      <!--<groupId>${project.groupId}</groupId>-->
+      <!--<artifactId>netty-codec-stomp</artifactId>-->
+      <!--<version>${project.version}</version>-->
+      <!--<scope>compile</scope>-->
+      <!--<optional>true</optional>-->
+    <!--</dependency>-->
     <dependency>
       <groupId>${project.groupId}</groupId>
       <artifactId>netty-common</artifactId>
@@ -277,13 +277,13 @@
       <scope>compile</scope>
       <optional>true</optional>
     </dependency>
-    <dependency>
-      <groupId>${project.groupId}</groupId>
-      <artifactId>netty-handler-proxy</artifactId>
-      <version>${project.version}</version>
-      <scope>compile</scope>
-      <optional>true</optional>
-    </dependency>
+    <!--<dependency>-->
+      <!--<groupId>${project.groupId}</groupId>-->
+      <!--<artifactId>netty-handler-proxy</artifactId>-->
+      <!--<version>${project.version}</version>-->
+      <!--<scope>compile</scope>-->
+      <!--<optional>true</optional>-->
+    <!--</dependency>-->
     <dependency>
       <groupId>${project.groupId}</groupId>
       <artifactId>netty-resolver</artifactId>
@@ -291,13 +291,13 @@
       <scope>compile</scope>
       <optional>true</optional>
     </dependency>
-    <dependency>
-      <groupId>${project.groupId}</groupId>
-      <artifactId>netty-resolver-dns</artifactId>
-      <version>${project.version}</version>
-      <scope>compile</scope>
-      <optional>true</optional>
-    </dependency>
+    <!--<dependency>-->
+      <!--<groupId>${project.groupId}</groupId>-->
+      <!--<artifactId>netty-resolver-dns</artifactId>-->
+      <!--<version>${project.version}</version>-->
+      <!--<scope>compile</scope>-->
+      <!--<optional>true</optional>-->
+    <!--</dependency>-->
     <dependency>
       <groupId>${project.groupId}</groupId>
       <artifactId>netty-transport</artifactId>
@@ -305,34 +305,34 @@
       <scope>compile</scope>
       <optional>true</optional>
     </dependency>
-    <dependency>
-      <groupId>${project.groupId}</groupId>
-      <artifactId>netty-transport-rxtx</artifactId>
-      <version>${project.version}</version>
-      <scope>compile</scope>
-      <optional>true</optional>
-    </dependency>
-    <dependency>
-      <groupId>${project.groupId}</groupId>
-      <artifactId>netty-transport-sctp</artifactId>
-      <version>${project.version}</version>
-      <scope>compile</scope>
-      <optional>true</optional>
-    </dependency>
-    <dependency>
-      <groupId>${project.groupId}</groupId>
-      <artifactId>netty-transport-udt</artifactId>
-      <version>${project.version}</version>
-      <scope>compile</scope>
-      <optional>true</optional>
-    </dependency>
-    <dependency>
-      <groupId>${project.groupId}</groupId>
-      <artifactId>netty-example</artifactId>
-      <version>${project.version}</version>
-      <scope>compile</scope>
-      <optional>true</optional>
-    </dependency>
+    <!--<dependency>-->
+      <!--<groupId>${project.groupId}</groupId>-->
+      <!--<artifactId>netty-transport-rxtx</artifactId>-->
+      <!--<version>${project.version}</version>-->
+      <!--<scope>compile</scope>-->
+      <!--<optional>true</optional>-->
+    <!--</dependency>-->
+    <!--<dependency>-->
+      <!--<groupId>${project.groupId}</groupId>-->
+      <!--<artifactId>netty-transport-sctp</artifactId>-->
+      <!--<version>${project.version}</version>-->
+      <!--<scope>compile</scope>-->
+      <!--<optional>true</optional>-->
+    <!--</dependency>-->
+    <!--<dependency>-->
+      <!--<groupId>${project.groupId}</groupId>-->
+      <!--<artifactId>netty-transport-udt</artifactId>-->
+      <!--<version>${project.version}</version>-->
+      <!--<scope>compile</scope>-->
+      <!--<optional>true</optional>-->
+    <!--</dependency>-->
+    <!--<dependency>-->
+      <!--<groupId>${project.groupId}</groupId>-->
+      <!--<artifactId>netty-example</artifactId>-->
+      <!--<version>${project.version}</version>-->
+      <!--<scope>compile</scope>-->
+      <!--<optional>true</optional>-->
+    <!--</dependency>-->
 
     <!-- Add optional dependencies explicitly to avoid Javadoc warnings and errors. -->
     <dependency>
